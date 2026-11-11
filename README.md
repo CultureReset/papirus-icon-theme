@@ -1,3 +1,14 @@
+> **CultureReset fork of [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).** Pixel perfect icon theme for Linux.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** GPL-3.0, from upstream. For updates and issues, use [upstream](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
 </p>
